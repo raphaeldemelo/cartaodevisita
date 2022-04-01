@@ -11,6 +11,7 @@ flex-direction: column;
 -webkit-box-shadow: 0px 0px 15px 0px rgba(50, 50, 50, 0.75);
 -moz-box-shadow:    0px 0px 15px 0px rgba(50, 50, 50, 0.75);
 box-shadow:         0px 0px 15px 0px rgba(50, 50, 50, 0.75);
+margin-top: -20px;
 `;
 
 export const AreaQr = styled.div`
