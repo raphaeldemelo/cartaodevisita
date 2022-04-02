@@ -12,10 +12,12 @@ flex-direction: column;
 -moz-box-shadow:    0px 0px 15px 0px rgba(50, 50, 50, 0.75);
 box-shadow:         0px 0px 15px 0px rgba(50, 50, 50, 0.75);
 margin-top: -20px;
+padding: 10px;
 `;
 
 export const AreaQr = styled.div`
-
+background-color: #2C7DFA;
+border-radius: 10px;
 `;
 
 export const Imagem = styled.img`
